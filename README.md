@@ -17,3 +17,6 @@ To use our chat tool, follow these simple steps:
 (_Reliable and Tested Tool_)
 
 We're proud to offer a 100% functional tool that delivers on its promises. Unlike fake or untested tools, our script has been thoroughly tested on our own devices before being released on GitHub.
+
+Not 100% workable tool
+∞ workable tool
