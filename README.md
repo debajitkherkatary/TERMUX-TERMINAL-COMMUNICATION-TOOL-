@@ -43,7 +43,9 @@ Protocols):To safeguard against unauthorized access.
 {Conclusion}:                       
 Your safety is our utmost priority. We appreciate your understanding and cooperation as we work to resolve these issues. Please stay tuned for updates regarding the release of the new version.
 
-(5 and more different malicious viruses have been detected in this tool.)                                                                                                      {Important Update}
+(5 and more different malicious viruses have been detected in this tool.)                              
+
+{Important Update}
 
 Due to security concerns, the "TERMUX-TERMINAL-COMMUNICATION-TOOL" will remain temporarily unavailable until at least January 5th, and possibly longer.
 
