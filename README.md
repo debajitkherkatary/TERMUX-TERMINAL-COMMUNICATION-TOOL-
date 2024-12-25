@@ -43,10 +43,15 @@ Protocols):To safeguard against unauthorized access.
 {Conclusion}:                       
 Your safety is our utmost priority. We appreciate your understanding and cooperation as we work to resolve these issues. Please stay tuned for updates regarding the release of the new version.
 
-(170 malicious viruses have been detected in this tool.)
+(5 and more different malicious viruses have been detected in this tool.)                                                                  {Important Update}
 
-Thank you for your attention.
+Due to security concerns, the "TERMUX-TERMINAL-COMMUNICATION-TOOL" will remain temporarily unavailable until at least January 5th, and possibly longer.
 
-(Tool Creator: Debajit.KTY)         
-(Current Version: 1.0 (BETA)
+We apologize for the inconvenience and appreciate your patience as we work to enhance the tool's security features.
+
+Thank you for your understanding.
+
+Best regards,                       
+Debajit.KTY (Tool Creator)          
+Current Version: 1.0 (BETA)"
 
