@@ -13,7 +13,8 @@ During our investigation, we found that once two devices establish a connection 
 {Key Findings}:                     
 Network Vulnerability: The virus is triggered specifically when devices communicate over the same network.
 
-{Malicious Activity}:               Once connected, the server can become a target for harmful elements, increasing the risk of data theft and system corruption.
+{Malicious Activity}:               
+Once connected, the server can become a target for harmful elements, increasing the risk of data theft and system corruption.
 
 {Beta Version Risks}:               
 As this tool is currently in beta, it lacks the robust security measures that will be implemented in future updates.
