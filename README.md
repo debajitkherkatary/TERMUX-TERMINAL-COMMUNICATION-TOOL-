@@ -7,7 +7,7 @@ Important Security Alert for TERMUX-TERMINAL-COMMUNICATION-TOOL Users
 
 We have recently conducted a thorough security analysis of the TERMUX-TERMINAL-COMMUNICATION-TOOL and discovered a significant threat. It has come to our attention that a harmful virus is activated when both devices are connected to the same network.
 
-{What We Discovered}:
+{What We Discovered}:               
 During our investigation, we found that once two devices establish a connection through the Termux terminal on the same network, the server becomes vulnerable. This vulnerability allows the virus to exploit the connection, potentially compromising both devices. The virus can spread rapidly, leading to unauthorized access and data breaches.
 
 {Key Findings}:
