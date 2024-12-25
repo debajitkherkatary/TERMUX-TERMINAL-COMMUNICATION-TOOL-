@@ -1,24 +1,39 @@
 # TERMUX-TERMINAL-COMMUNICATION-TOOL-
-# Read Carefully before installing.
+# Read Carefully.
 
-*Getting Started with Our Chat Tool (BETA)*
+Important Security Alert for TERMUX-TERMINAL-COMMUNICATION-TOOL Users
 
-To use our chat tool, follow these simple steps:
+⚠️ WARNING ⚠️
 
-1. *Ensure device proximity*: Have two devices nearby, preferably with one being your friend's device.
-2. *Establish a network connection*: Turn on the hotspot on one device and connect to the same network using Wi-Fi on the other device. Both devices must be connected to the same network for the tool to function.
-3. *Install the scripts*: On Device 1, install the `(server.py)` script, and on Device 2, install the `(client.py)` script.
-4. *Start chatting*: Once installed, you can chat with each other using the Termux terminal.
-*Important Notes*:
-- This is a BETA version, and you may encounter issues. Please report any problems to us, and we'll work to resolve them as soon as possible.
-- Your feedback is invaluable in helping us improve the tool.
-- Future updates, including version 1.4, will focus on adding security features and enhancing overall functionality. We also plan to develop an anonymous SMS sender feature in the future.
+We have recently conducted a thorough security analysis of the TERMUX-TERMINAL-COMMUNICATION-TOOL and discovered a significant threat. It has come to our attention that a harmful virus is activated when both devices are connected to the same network.
 
-(_Reliable and Tested Tool_)
+{What We Discovered}:
+During our investigation, we found that once two devices establish a connection through the Termux terminal on the same network, the server becomes vulnerable. This vulnerability allows the virus to exploit the connection, potentially compromising both devices. The virus can spread rapidly, leading to unauthorized access and data breaches.
 
-We're proud to offer a 100% functional tool that delivers on its promises. Unlike fake or untested tools, our script has been thoroughly tested on our own devices before being released on GitHub.
+{Key Findings}:
+Network Vulnerability: The virus is triggered specifically when devices communicate over the same network.
+Malicious Activity: Once connected, the server can become a target for harmful elements, increasing the risk of data theft and system corruption.
+Beta Version Risks: As this tool is currently in beta, it lacks the robust security measures that will be implemented in future updates.
+Immediate Actions Required:
+Disconnect from the Network: If you are currently using the tool, please disconnect your devices from the network immediately.
+Avoid Using the Tool: We strongly advise against using the TERMUX-TERMINAL-COMMUNICATION-TOOL until a new, secure version is released.
+Monitor Your Devices: Keep an eye on your devices for any unusual behavior or unauthorized access.
+Upcoming Security Measures:
+We are actively working on a new update that will address these vulnerabilities and enhance the overall security of the tool.
+ 
+ {This update will include}:
 
-(Not 100% workable tool)
-(∞ workable tool)
-(100% Safe and Secure 🔐 to use)
+Improved Network Security Protocols: To safeguard against unauthorized access.
+Advanced Threat Detection Systems: To identify and neutralize potential threats in real-time.
+User Notifications: Alerts for any suspicious activity detected during use.
+
+{Conclusion}:
+Your safety is our utmost priority. We appreciate your understanding and cooperation as we work to resolve these issues. Please stay tuned for updates regarding the release of the new version.
+
+(170 malicious viruses have been detected in this tool.)
+
+Thank you for your attention.
+
+(Tool Creator: Debajit.KTY)
+(Current Version: 1.0 (BETA)
 
